@@ -15,7 +15,7 @@ per James Gosling amb altres companys de [Sun Microsystems](https://ca.wikipedia
 
 1. ***Característiques de Java***
 2. ***Tipus de Dades***
- 2.1 Tipus de dada primitius o variables primitives
+ 1. Tipus de dada primitius o variables primitives
  2.     ***BOOLEÀ (boolean)***
  3.     ***CARÀCTER (char)***
  2.     ***NUMÈRICS ENTERS (byte, short, int, long) i NUMERICS REALS (fload, double)***
