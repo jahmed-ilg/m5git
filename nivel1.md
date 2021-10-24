@@ -28,8 +28,8 @@ per James Gosling amb altres companys de [Sun Microsystems](https://ca.wikipedia
 
 ### Aplicacions i miniaplicacions
 * Els programes de Java es divideixen principalment en dues categories.
- * Aplicacions: són programes autònoms i independents
-  * Miniaplicacions: les miniaplicacions o applets Java són programes incrustats en pàgines HTML, i aquests s'executen damunt de navegadors Web.
+	 * Aplicacions: són programes autònoms i independents
+ 	 * Miniaplicacions: les miniaplicacions o applets Java són programes incrustats en pàgines HTML, i aquests s'executen damunt de navegadors Web.
 
 
 #### Passos per crear un programa amb Java
