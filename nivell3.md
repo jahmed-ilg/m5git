@@ -122,6 +122,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 127.0.0.1:8000
 ```
 **Kubernetes + Google Cloud**
+
 See [KUBERNETES.md](https://github.com/joemccann/commonmark/blob/master/KUBERNETES.md)
 ##### Todos
 * Write MORE Tests
