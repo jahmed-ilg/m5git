@@ -1,5 +1,5 @@
 # Java (llenguatge de programació)
-
+ 
 > No s'ha de confondre amb [JavaScript](https://ca.wikipedia.org/wiki/JavaScript).
 
 El **Java** és un [llenguatge de programació](https://ca.wikipedia.org/wiki/Llenguatge_de_programaci%C3%B3)  dissenyat el [1990](https://ca.wikipedia.org/wiki/1990)
